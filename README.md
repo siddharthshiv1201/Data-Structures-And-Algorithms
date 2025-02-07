@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
@@ -20,10 +21,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
@@ -92,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
