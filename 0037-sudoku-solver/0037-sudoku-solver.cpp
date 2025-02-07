@@ -5,15 +5,15 @@ public:
     bool isSafe(vector<vector<char>>& board, int row, int col, char num) {
         // Check row & column
         for (int i = 0; i < 9; i++) {
-            if (board[row][i] == num || board[i][col] == num) return false;
+            if (board[row][i] == num || board[i][col] == num)
+                return false;
         }
 
         // Check 3x3 box
-        int startRow = (row / 3) * 3, startCol = (col / 3) * 3;
-        for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 3; j++) {
-                if (board[startRow + i][startCol + j] == num) return false;
-            }
+        int startRow = 3 * (row / 3), startCol = 3 * (col / 3);
+        for (int i = 0; i < 9; i++) {
+            if (board[startRow + i / 3][startCol + i % 3] == num)
+                return false;
         }
 
         return true; // Valid placement
@@ -28,9 +28,11 @@ public:
                         if (isSafe(board, row, col, num)) {
                             board[row][col] = num; // Place the number
 
-                            if (solve(board)) return true; // Recur for the next empty cell
+                            if (solve(board))
+                                return true; // Recur for the next empty cell
 
-                            board[row][col] = '.'; // Backtrack if no solution found
+                            board[row][col] =
+                                '.'; // Backtrack if no solution found
                         }
                     }
                     return false; // No valid number found, trigger backtracking
@@ -40,7 +42,5 @@ public:
         return true; // All cells are filled correctly
     }
 
-    void solveSudoku(vector<vector<char>>& board) {
-        solve(board);
-    }
+    void solveSudoku(vector<vector<char>>& board) { solve(board); }
 };
