@@ -1,16 +1,16 @@
 class Solution {
 public:
     void findCombinations(int index, int k, int target, vector<int>& result, vector<vector<int>>& ans) {
-        if (target == 0 && k == 0) { // Found a valid combination
+        if (target == 0 && k == 0) { 
             ans.push_back(result);
             return;
         }
-        if (target < 0 || k < 0) return; // Prune invalid paths
+        // if (target < 0 || k < 0) return;
 
-        for (int i = index; i <= 9; i++) { // Numbers from 1 to 9
-            result.push_back(i); // Take the current number
-            findCombinations(i + 1, k - 1, target - i, result, ans); // Recur for next number
-            result.pop_back(); // Backtrack
+        for (int i = index; i <= 9; i++) { 
+            result.push_back(i); 
+            findCombinations(i + 1, k - 1, target - i, result, ans); 
+            result.pop_back();
         }
     }
 
