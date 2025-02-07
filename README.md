@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0047-permutations-ii) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0047-permutations-ii) |
