@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
