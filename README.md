@@ -110,11 +110,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0147-insertion-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 ## Stack
 |  |
