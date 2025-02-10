@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0800-letter-case-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0800-letter-case-permutation) |
+| [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -114,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
