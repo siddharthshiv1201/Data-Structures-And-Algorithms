@@ -4,26 +4,24 @@ public:
         int n = nums.size();
         int maxCount = 0;
 
-        for (int i = 0; i < n; i++) {  // Outer loop till n-1
+        for (int i = 0; i < n; i++) {  
             int count = 0;
             int flips = k;
-            int flipIndex = -1;  // Mark where we start flipping
+            int flipIndex = -1; 
 
-            for (int j = i; j < n; j++) {  // Inner loop j = i to n-1
+            for (int j = i; j < n; j++) {  
                 if (nums[j] == 1) {
-                    count++;  // If it's 1, just count
-                } else if (flips > 0) {  
-                    flips--;  // If it's 0, flip it to 1
                     count++;  
-                    if (flipIndex == -1) flipIndex = j;  // Mark first flip position
+                } else if (flips > 0) {  
+                    flips--;  
+                    count++;  
+                    if (flipIndex == -1) flipIndex = j;  
                 } else {
-                    break;  // Stop when we have no flips left
+                    break;  
                 }
             }
-
             maxCount = max(maxCount, count);
-
-            if (flipIndex != -1) i = flipIndex;  // Start next iteration from first flipped zero
+            if (flipIndex != -1) i = flipIndex;  
         }
 
         return maxCount;
