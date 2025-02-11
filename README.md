@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
 | [0800-letter-case-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0800-letter-case-permutation) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
