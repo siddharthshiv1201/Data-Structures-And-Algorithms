@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -139,4 +142,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
