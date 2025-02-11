@@ -22,7 +22,6 @@ public:
     while (!q.empty()) { // Fixed condition
         vector<int> level;
         int size = q.size();
-
         for (int i = 0; i < size; i++) {
             temp = q.front(); // Fixed usage of front()
             q.pop();
