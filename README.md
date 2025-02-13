@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
 | [0800-letter-case-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0800-letter-case-permutation) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
