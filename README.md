@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0498-diagonal-traverse](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0498-diagonal-traverse) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
+| [0498-diagonal-traverse](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0498-diagonal-traverse) |
 ## Linked List
 |  |
 | ------- |
