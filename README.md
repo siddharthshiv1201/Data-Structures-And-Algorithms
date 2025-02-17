@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Bit Manipulation
 |  |
