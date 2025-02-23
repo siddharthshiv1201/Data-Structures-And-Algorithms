@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
 | [0800-letter-case-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1160-letter-tile-possibilities) |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
