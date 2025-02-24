@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
 | [0800-letter-case-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2128-reverse-prefix-of-word) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Ordered Set
 |  |
 | ------- |
