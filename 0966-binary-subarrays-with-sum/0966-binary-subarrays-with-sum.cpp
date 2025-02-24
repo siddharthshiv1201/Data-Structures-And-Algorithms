@@ -1,48 +1,28 @@
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
-        if (goal == 0) return countZeroSubarrays(nums); 
-        
-        int n = nums.size();
-        int i = 0, j = 0;
-        int count = 0, sum = 0;
+    int atMost(vector<int>& nums, int goal) {
+        if (goal < 0) return 0; // Edge case: negative goal not possible
+        int i = 0, sum = 0, count = 0;
 
-        while (j < n) {
+        for (int j = 0; j < nums.size(); j++) {
             sum += nums[j];
 
-            while (sum > goal && i <= j) {  
+            while (sum > goal) { // Shrink the window
                 sum -= nums[i];
                 i++;
             }
 
-            if (sum == goal) {
-                int temp = i;
-                while (temp <= j && nums[temp] == 0) {
-                    count++;
-                    temp++;
-                }
-                count++;
-            }
-
-            j++;
+            count += (j - i + 1); // Count all valid subarrays ending at j
         }
 
         return count;
     }
 
-    
-    int countZeroSubarrays(vector<int>& nums) {
-        int count = 0, zeroCount = 0;
-
-        for (int num : nums) {
-            if (num == 0) {
-                zeroCount++; 
-                count += zeroCount;
-            } else {
-                zeroCount = 0; 
-            }
-        }
-
-        return count;
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        return atMost(nums, goal) - atMost(nums, goal - 1);
     }
 };
