@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0966-binary-subarrays-with-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
+| [1034-subarrays-with-k-different-integers](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -216,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0966-binary-subarrays-with-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
