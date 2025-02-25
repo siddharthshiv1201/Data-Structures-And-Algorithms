@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0413-arithmetic-slices](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
 | [0498-diagonal-traverse](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0070-climbing-stairs) |
+| [0413-arithmetic-slices](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
 | [0966-binary-subarrays-with-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
