@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2383-add-two-integers) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
