@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1755-defuse-the-bomb) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sliding Window
 |  |
