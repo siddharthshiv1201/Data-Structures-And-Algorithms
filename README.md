@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0940-fruit-into-baskets) |
+| [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1020-longest-turbulent-subarray) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
+| [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
+| [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sliding Window
