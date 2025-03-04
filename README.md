@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2383-add-two-integers) |
 ## Recursion
