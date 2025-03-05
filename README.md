@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1020-longest-turbulent-subarray) |
 | [1034-subarrays-with-k-different-integers](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0958-sort-array-by-parity-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Stack
