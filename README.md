@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
