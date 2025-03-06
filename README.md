@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0800-letter-case-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1160-letter-tile-possibilities) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sliding Window
