@@ -6,12 +6,12 @@ public:
         int i = 0, j = 0;
         
         while (j < s.size()) {
-            map1[s[j]]++; // Expand window by adding character at j
-            
-            // Check if all 'a', 'b', and 'c' are present in the window
+            map1[s[j]]++; 
+
             while (map1['a'] > 0 && map1['b'] > 0 && map1['c'] > 0) {
-                count += s.size() - j; // Count valid substrings
-                map1[s[i]]--; // Shrink window from the left
+                count += s.size() - j;
+                //shrink window
+                map1[s[i]]--; 
                 i++;
             }
             
