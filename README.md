@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Depth-First Search
 |  |
 | ------- |
