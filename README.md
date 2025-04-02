@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -459,4 +460,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0214-shortest-palindrome) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
