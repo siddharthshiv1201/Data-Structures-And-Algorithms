@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3311-ant-on-the-boundary](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2551-apply-operations-to-an-array) |
+| [3311-ant-on-the-boundary](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3311-ant-on-the-boundary) |
 | [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3311-ant-on-the-boundary](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3311-ant-on-the-boundary) |
 ## Memoization
 |  |
 | ------- |
