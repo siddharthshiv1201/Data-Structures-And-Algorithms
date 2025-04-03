@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0070-climbing-stairs) |
+| [0343-integer-break](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
 | [1020-longest-turbulent-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1020-longest-turbulent-subarray) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1369-minimum-swaps-to-make-strings-equal) |
