@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0319-bulb-switcher](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
+| [0796-reaching-points](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0796-reaching-points) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
