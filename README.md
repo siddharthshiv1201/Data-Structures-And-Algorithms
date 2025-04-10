@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1675-magnetic-force-between-two-balls](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1755-defuse-the-bomb) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1675-magnetic-force-between-two-balls](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1675-magnetic-force-between-two-balls](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Depth-First Search
 |  |
