@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1755-defuse-the-bomb) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0777-toeplitz-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0777-toeplitz-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
