@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0777-toeplitz-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0777-toeplitz-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0498-diagonal-traverse) |
+| [0777-toeplitz-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0777-toeplitz-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
