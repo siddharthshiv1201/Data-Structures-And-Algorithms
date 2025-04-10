@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3311-ant-on-the-boundary](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3311-ant-on-the-boundary) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Backtracking
 |  |
 | ------- |
