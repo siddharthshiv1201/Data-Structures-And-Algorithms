@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
