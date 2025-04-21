@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0147-insertion-sort-list) |
