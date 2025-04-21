@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0777-toeplitz-matrix) |
