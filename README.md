@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
 | [1020-longest-turbulent-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1020-longest-turbulent-subarray) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## Math
 |  |
 | ------- |
