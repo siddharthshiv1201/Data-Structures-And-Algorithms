@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3311-ant-on-the-boundary](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3321-type-of-triangle) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0800-letter-case-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0800-letter-case-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## String
 |  |
 | ------- |
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-longest-turbulent-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1020-longest-turbulent-subarray) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Math
 |  |
 | ------- |
@@ -369,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
@@ -421,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Breadth-First Search
 |  |
 | ------- |
