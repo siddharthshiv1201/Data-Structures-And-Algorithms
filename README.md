@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1369-minimum-swaps-to-make-strings-equal) |
