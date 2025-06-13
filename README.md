@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0147-insertion-sort-list) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0189-rotate-array) |
