@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0061-rotate-list) |
