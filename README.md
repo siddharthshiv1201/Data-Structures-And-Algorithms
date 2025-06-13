@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
@@ -372,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2128-reverse-prefix-of-word) |
@@ -570,4 +574,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3201-distribute-candies-among-children-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
