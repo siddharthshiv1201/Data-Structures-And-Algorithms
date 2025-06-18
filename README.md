@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0800-letter-case-permutation) |
 | [1044-find-common-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1160-letter-tile-possibilities) |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
+| [0567-permutation-in-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0940-fruit-into-baskets) |
