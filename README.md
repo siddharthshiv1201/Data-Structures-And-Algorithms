@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
+| [0436-find-right-interval](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0498-diagonal-traverse) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0436-find-right-interval) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0713-subarray-product-less-than-k) |
