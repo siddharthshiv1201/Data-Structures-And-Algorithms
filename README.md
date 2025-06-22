@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1675-magnetic-force-between-two-balls](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
 | [1020-longest-turbulent-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1020-longest-turbulent-subarray) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -412,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
