@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
 | [0436-find-right-interval](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0498-diagonal-traverse) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
