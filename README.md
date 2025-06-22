@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
