@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0319-bulb-switcher) |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2610-closest-prime-numbers-in-range) |
 ## Monotonic Queue
@@ -614,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1656-count-good-triplets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
