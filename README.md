@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0800-letter-case-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0800-letter-case-permutation) |
 | [1044-find-common-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1160-letter-tile-possibilities) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
