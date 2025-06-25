@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2128-reverse-prefix-of-word) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
