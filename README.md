@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0954-maximum-sum-circular-subarray) |
 | [0958-sort-array-by-parity-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-longest-turbulent-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1020-longest-turbulent-subarray) |
 | [1034-subarrays-with-k-different-integers](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1044-find-common-characters) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0852-friends-of-appropriate-ages](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0852-friends-of-appropriate-ages) |
 | [0958-sort-array-by-parity-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2551-apply-operations-to-an-array) |
