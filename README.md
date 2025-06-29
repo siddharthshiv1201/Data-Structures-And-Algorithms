@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
