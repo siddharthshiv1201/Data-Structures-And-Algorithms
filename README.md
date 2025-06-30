@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0777-toeplitz-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0777-toeplitz-matrix) |
 | [0852-friends-of-appropriate-ages](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0852-friends-of-appropriate-ages) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0917-boats-to-save-people](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0436-find-right-interval) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-friends-of-appropriate-ages](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0852-friends-of-appropriate-ages) |
+| [0917-boats-to-save-people](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0852-friends-of-appropriate-ages](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0852-friends-of-appropriate-ages) |
+| [0917-boats-to-save-people](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1894-merge-strings-alternately) |
@@ -454,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0946-smallest-range-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1388-greatest-sum-divisible-by-three) |
