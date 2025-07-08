@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3867-lexicographically-smallest-string-after-adjacent-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3867-lexicographically-smallest-string-after-adjacent-removals) |
 ## Dynamic Programming
 |  |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2551-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3311-ant-on-the-boundary) |
 | [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Matrix
 |  |
 | ------- |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2128-reverse-prefix-of-word](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3447-clear-digits) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Greedy
 |  |
 | ------- |
