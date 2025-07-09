@@ -686,4 +686,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
