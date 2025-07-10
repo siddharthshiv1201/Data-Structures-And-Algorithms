@@ -531,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Search
@@ -604,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 ## Prefix Sum
@@ -656,10 +659,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Brainteaser
 |  |
 | ------- |
