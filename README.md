@@ -534,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Breadth-First Search
 |  |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Search
 |  |
 | ------- |
@@ -609,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Prefix Sum
 |  |
 | ------- |
