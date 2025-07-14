@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3934-coupon-code-validator](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3934-coupon-code-validator](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3934-coupon-code-validator) |
 ## Backtracking
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3647-zero-array-transformation-iii) |
+| [3934-coupon-code-validator](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3934-coupon-code-validator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -327,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3867-lexicographically-smallest-string-after-adjacent-removals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3867-lexicographically-smallest-string-after-adjacent-removals) |
+| [3934-coupon-code-validator](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/3934-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
