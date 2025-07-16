@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
@@ -603,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -716,4 +719,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
