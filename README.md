@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1755-defuse-the-bomb) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
