@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0179-largest-number) |
@@ -438,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/siddharthshiv1201/Data-Structures-And-Algorithms/tree/master/0189-rotate-array) |
